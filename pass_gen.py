@@ -11,4 +11,4 @@ length=8
 password= "".join(random.sample(all,length))
 print("PASSWORD GENERATOR")
 print("++++++++++++++++++")
-print(password)
+print("The Generated Passowrd is =>",password)
