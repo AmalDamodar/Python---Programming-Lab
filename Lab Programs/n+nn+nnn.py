@@ -1,0 +1,8 @@
+n=(input("Enter a number\n"))
+a=int(n+n)
+b=int(n+n+n)
+c=int(n)
+print(a)
+print(b)
+print("\n")
+print(c+a+b)
